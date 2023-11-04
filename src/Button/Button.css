@@ -1,0 +1,18 @@
+.CreateButton{
+    background-color: transparent;
+    box-shadow: 0px 1px 5px 0px gray;
+    border: 1px solid gray;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 50px;
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    font-weight: bold;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+    width: 64px;
+}
